@@ -1,0 +1,33 @@
+.body{
+    background-color: bisque;
+    justify-content: absolute;
+    align-items: center;
+    position: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+}
+
+.img{
+    padding: 50px;
+}
+
+.sentence{
+    padding: 40px;
+    justify-content: absolute;
+}
+
+.h2{
+    text-decoration: underline blue;
+    text-shadow: 2px 2px red;
+}
+
+.other{
+    font-style: italic;
+}
