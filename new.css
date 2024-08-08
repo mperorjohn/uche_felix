@@ -1,0 +1,46 @@
+.body{
+    background-image: url(./Images/16925.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.input{ 
+    padding: 10px;
+    width: 15%;
+    outline: none;
+    border: 3px solid red;
+    border-radius: 6px;
+    justify-items: center;
+}
+
+.gender{
+    padding: 10px;
+    width: 10%;
+    outline: none;
+    border: 3px solid red;
+    border-radius: 6px;
+}
+
+.confirm{
+    padding: 10px;
+    width: 10%;
+    background-color: red;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+    color: gold;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.label{
+    color: gold;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h1{
+    color: gold;
+}
